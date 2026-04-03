@@ -18,23 +18,23 @@
 
 
 <details>
-  <summary>可食用筷图解 >>>（点击看大图）</summary>
+  <summary>momo筷图解 >>>（点击看大图）</summary>
   
-  ![可食用筷图解](https://gitee.com/ReadClaw/StarShip/raw/main/StarShip/chopstick.jpg)
+  ![可食用筷图解](https://github.com/ReadClaw/StarShip/raw/main/StarShip/chopstick.jpg)
   
 </details>
 
 
-本产品将在大中华区推出，瞄准20亿的用筷消费者，若你有参与经营意愿，请先通读三个开源舱中内容吧，若仍觉得合适，请在Issues留下说明。能彻底认同观点的，理解深刻的，我会进一步联系。
+本产品将在大中华区推出，瞄准20亿的用筷消费者，若你有参与经营意愿，请先通读三个开源舱中内容吧，若仍觉得合适，请在Issues留下说明。能彻底认同观点的，理解深刻的，我一定会进一步联系。❗（甚至你不会编程，什么也不会的，只要看到不同寻常，不是来过家家的，我也会留出名额给你）
 
-- 三个开源版块：[让参与者持续性赚钱](https://gitee.com/ReadClaw/StarShip) | [Mailtopia：以地球为接地点，实现信息入地](https://gitee.com/ReadClaw/MAILTOPIA) | [分批释放工程难题，通过开源方式逐步达成](https://gitee.com/ReadClaw/ReadClaw)
+- 三个开源版块：[让参与者持续性赚钱](https://github.com/ReadClaw/StarShip) | [Mailtopia：以地球为接地点，实现信息入地](https://github.com/ReadClaw/MAILTOPIA) | [分批释放工程难题，通过开源方式逐步达成](https://github.com/ReadClaw/ReadClaw)
 
 世界动荡，人类应更加注重生态环保与发展的可持续性。产品即将在欧美市场作为膳食补充品上市，而亚洲市场根据本人意愿，启用协同开源的方式来授予经营权。年初开始，我一直在思索有什么不会被智能化所替代，脑力会被替代、体力会被替代、创造力会被部分替代，只有粮食完全不会，因为所有的人都要粮食，再多么先进的大模型都不能代替人类去进食，不能代替人类生命需求。因此，这份经营的出发点就是从粮食开始，退休前我回到老房子，见到一个豁了口的空米袋，于是从米袋想到了布丁🍮，从布丁飞船游想到了筷子。呀，并不是每个饮食男女都有太空探索的兴趣，然而饮食，是人类文明的特殊代表，可以此开辟新的并且先进的太空文化，成为搭建两者间快速衔接的桥梁和导向。
 
 <details>
-  <summary>zero-carbon chopsticks（点击可展开）</summary>
+  <summary>Momo CHOPSTICKS（点击可展开）</summary>
 
-  ![0碳筷](https://gitee.com/ReadClaw/StarShip/raw/main/StarShip/tr.jpg)
+  ![0碳筷](https://github.com/ReadClaw/StarShip/raw/main/StarShip/tr.jpg)
   
 </details>
 
