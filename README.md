@@ -1,5 +1,5 @@
 ## 开源的健康美食任务，为了森林火灾损失的碳平衡
-- # 除了免费铺货给你，还会帮你开餐厅、开办STEM航天班，只要参加者能把程序最终编制成，[都是免费提供，详细就看介绍 >>>](https://github.com/ReadClaw/MAILTOPIA)
+- # 除了免费铺货给你，还会帮你开餐厅、开办STEM航天班，只要参加者能把程序编制成，[都是免费提供，详细就看介绍 >>>](https://github.com/ReadClaw/MAILTOPIA)
 ![0C筷](https://github.com/ReadClaw/Gitmoon/raw/main/StarShip/0C.png)
 
 末世逃亡时，还能享受美食，而不是饿死！🍟
