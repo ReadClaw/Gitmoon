@@ -1,4 +1,4 @@
-## 开源的健康美食任务，为了换回森林火灾损失的碳平衡
+## 开源的健康美食任务，为了挽回森林火灾损失的碳平衡
 - # 除了免费铺货给你，还会帮你开STARSAMP餐厅、开办STEM航天班，只要参加者能把程序编制成，[都是免费提供，详细就看介绍 >>>](https://github.com/ReadClaw/MAILTOPIA)
 ![0C筷](https://github.com/ReadClaw/Gitmoon/raw/main/StarShip/0C.png)
 
